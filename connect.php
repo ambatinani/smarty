@@ -1,8 +1,8 @@
 <?php
-$servername = "smart-do-user-13132292-0.b.db.ondigitalocean.com";
-$username = "doadmin";
-$password = "AVNS_-CCn4acbduJxTH5ez_E";
-$dbname = "smartintern";
+$servername = "sql6.freesqldatabase.com";
+$username = "sql6585575";
+$password = "GleSUUA1YY";
+$dbname = "sql6585575";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
