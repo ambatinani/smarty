@@ -58,7 +58,7 @@
             <div class="mb-4">
               <label class="block text-blue-300 py-2 font-bold mb-2" for="emailaddress">
               You can contact us via our email:
-              smartinterntech@gmail.com
+              smartinterntech@gmail.com <br>
               (Yes we also use Gmail because we love it❤️)
 
               </label>
