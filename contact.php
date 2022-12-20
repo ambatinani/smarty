@@ -59,7 +59,7 @@
               <label class="block text-blue-300 py-2 font-bold mb-2" for="emailaddress">
               You can contact us via our email:
               smartinterntech@gmail.com
-
+              (Yes we also use Gmail because we love it❤️)
 
               </label>
               <label class="block text-blue-300 py-2 font-bold mb-2" for="emailaddress">
@@ -86,7 +86,7 @@
         
         <!--Footer-->
         <div class="w-full pt-16 pb-6 text-sm text-center md:text-left fade-in">
-          <a class="text-gray-500 no-underline hover:no-underline" href="#">&copy; SmartIntern Technologies Pvt Ltd.</a>
+          <a class="text-gray-500 no-underline hover:no-underline" href="#">&copy; SmartIntern Technologies OPC Private Limited.</a>
         
          
         </div>
