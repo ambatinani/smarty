@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "smart-do-user-13132292-0.b.db.ondigitalocean.com";
+$username = "doadmin";
+$password = "AVNS_-CCn4acbduJxTH5ez_E";
 $dbname = "smartintern";
 
 // Create connection
