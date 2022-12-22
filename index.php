@@ -45,7 +45,11 @@
              Smart Intern
             </span>
             by filling the form
-          </h1>
+            </h1>
+            
+             <span class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">
+             New Website Launching on Jan 1st 2023
+            </span>
           <p class="leading-normal text-base md:text-2xl mb-8 text-center md:text-left">
             Fill the following google form to get instant response within one hour for internship details.
           </p>
